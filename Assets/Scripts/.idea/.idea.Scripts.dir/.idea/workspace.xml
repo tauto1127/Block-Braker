@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab434610-b31e-4436-8738-992e161c4b07" name="Default Changelist" comment="" />
+    <list default="true" id="32fa400b-884e-47b9-9078-a37cfe222953" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +10,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1i36JBCzZEcy3ubYfvOhhht1BEG" />
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SceneLoader.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/loseEvent.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i8uBBc9tHhY2IxKJbLoJlq45qC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,12 +34,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ab434610-b31e-4436-8738-992e161c4b07" name="Default Changelist" comment="" />
-      <created>1601123861662</created>
+      <changelist id="32fa400b-884e-47b9-9078-a37cfe222953" name="Default Changelist" comment="" />
+      <created>1601301408693</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601123861662</updated>
-      <workItem from="1601123917185" duration="539000" />
+      <updated>1601301408693</updated>
+      <workItem from="1601301417099" duration="186000" />
     </task>
     <servers />
   </component>
